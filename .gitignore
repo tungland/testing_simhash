@@ -1,0 +1,10 @@
+/.ipynb_checkpoints
+/myfuncs/__pycache__
+
+/compare_document_similarity_techniques/data
+/diffing_simhash_docs/data
+/diffing_simhash_docs/simhash_authorities
+
+/data
+
+data
